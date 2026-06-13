@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+<defs>
+<linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#071833" stop-opacity="0"/><stop offset=".62" stop-color="#071833" stop-opacity=".72"/><stop offset="1" stop-color="#071833" stop-opacity=".96"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8e7a1"/><stop offset=".55" stop-color="#d4af37"/><stop offset="1" stop-color="#9a6b0d"/></linearGradient>
+<linearGradient id="warm" x1="0" x2="1"><stop stop-color="#f8e7a1"/><stop offset="1" stop-color="#2e5a91"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67b4ff"/><stop offset="1" stop-color="#071833"/></linearGradient>
+</defs>
+<rect width="640" height="360" fill="#071833"/><circle cx="438" cy="104" r="102" fill="#d4af37" opacity=".15"/><rect x="330" y="80" width="185" height="160" rx="24" fill="#ffffff" opacity=".13"/><circle cx="145" cy="102" r="36" fill="#f7f3ea" opacity=".82"/><rect x="98" y="146" width="100" height="135" rx="44" fill="#d4af37" opacity=".82"/><circle cx="238" cy="96" r="34" fill="#f7f3ea" opacity=".82"/><rect x="196" y="140" width="96" height="128" rx="40" fill="#315b8c" opacity=".85"/>
+<rect width="640" height="420" fill="url(#shade)"/>
+<circle cx="70" cy="260" r="43" fill="#071833" opacity=".78" stroke="#d4af37" stroke-width="3"/>
+<path d="M52 142 L52 86 L80 86 L80 142 Z M98 142 L98 64 L126 64 L126 142 Z M144 142 L144 38 L172 38 L172 142 Z M48 36 C94 76 137 32 184 20 L173 12 L196 8 L192 31 L184 23 C137 35 98 88 48 46 Z" transform="translate(18 210) scale(.52)" fill="url(#gold)"/>
+<text x="36" y="322" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" fill="#fff">Rental Income Potential</text>
+<text x="36" y="356" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff" opacity=".84">Attractive to professionals and long-term tenants.</text>
+<rect x="36" y="382" width="148" height="4" rx="2" fill="#d4af37"/>
+</svg>
