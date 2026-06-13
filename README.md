@@ -1,14 +1,30 @@
-# Best Buy Properties – Eastwood City Condo For Sale
+# Best Buy Properties – Eastwood City Condo V4
 
-Render-ready Next.js landing page.
+Premium Render-ready Next.js landing page for Eastwood City Condominium For Sale.
 
 ## Render Settings
 
-Use these settings in Render:
+Build Command:
 
-- Runtime: Node
-- Build Command: `npm install && npm run build`
-- Start Command: `npm start`
-- Environment Variable: `NODE_VERSION = 20`
+```bash
+npm install --legacy-peer-deps && npm run build
+```
 
-Important: use `&&`, not `;`, in the build command.
+Start Command:
+
+```bash
+npm start
+```
+
+Environment Variable:
+
+```text
+NODE_VERSION = 20
+```
+
+## Notes
+
+- Uses the 3 actual condo photos.
+- Replaces text-only placeholder sections with image-based cards.
+- Uses AI-generated lifestyle visuals to avoid copying copyrighted Eastwood/Megaworld images.
+- No package-lock.json included to avoid npm lock issues.

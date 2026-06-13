@@ -1,10 +1,10 @@
 module.exports = {
-  content: ['./app/**/*.{js,jsx,ts,tsx}'],
+  content: ['./app/**/*.{js,jsx}'],
   theme: {
     extend: {
-      colors: { navy: '#071833', gold: '#d4af37', cream: '#f8f5ef' },
-      boxShadow: { glow: '0 20px 60px rgba(212,175,55,.22)' }
+      colors: { navy: '#071d3b', navy2: '#0b1f4d', gold: '#d4af37', cream: '#f8f5ef' },
+      boxShadow: { luxury: '0 24px 80px rgba(7,29,59,.22)' }
     }
   },
   plugins: []
-}
+};
