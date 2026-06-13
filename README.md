@@ -1,16 +1,14 @@
-# Best Buy Properties – Eastwood City Condo V3.1 Premium Visual Upgrade
+# Best Buy Properties – Eastwood City Condo For Sale
 
-Render-ready Next.js + Tailwind project.
-
-## V3.1 Updates
-- Removed text-only boring advantage cards
-- Filled all placeholder-style sections with visual SVG graphics
-- Added 6 premium visual advantage cards
-- Added 8 location lifestyle image cards
-- Added 2 wide feature graphic banners
-- Uses the 3 actual Eastwood unit photos
-- No empty gallery placeholders
+Render-ready Next.js landing page.
 
 ## Render Settings
-Build Command: `npm install && npm run build`
-Start Command: `npm start`
+
+Use these settings in Render:
+
+- Runtime: Node
+- Build Command: `npm install && npm run build`
+- Start Command: `npm start`
+- Environment Variable: `NODE_VERSION = 20`
+
+Important: use `&&`, not `;`, in the build command.
